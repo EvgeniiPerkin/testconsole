@@ -1,0 +1,6 @@
+<Farpost>
+	<Kid>
+Hello
+	</Kid>
+<h>sdf</h>
+</Farpost>
